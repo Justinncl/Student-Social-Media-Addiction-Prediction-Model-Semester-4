@@ -1,4 +1,4 @@
-# Student Social Media Addiction Predictive Model
+# Student Social Media Addiction Prediction Model
 https://github.com/user-attachments/assets/1b06fe1c-1840-4530-b85c-7af8615c0911
 
 
